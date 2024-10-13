@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joetny
 - 👀 I’m interested in python,frontend,backend
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Full-Stack Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord:amonkiller1
 - 😄 Pronouns: he/him
